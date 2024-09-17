@@ -4,11 +4,15 @@ This repository contains a Power BI dashboard created for visualizing sales data
 Features:
 
 Sales Overview: Total sales figures displayed prominently.
+
 Regional Analysis: Visualizations showing sales distribution by region.
+
 Product Categories: Insights into sales performance across different product categories.
+
 Interactive Elements: Includes filters, slicers, and drill-through features for detailed analysis.
 
 Data Sources:
+
 AdventureWorksDW2022: Sample dataset from Microsoft.
 
 SQL Server: Data extraction and transformation.
